@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Cloud+Computing+Engineer;Always+Learning+New+Technologies;Tech+Enthusiast" />
 </p>
-# 👨‍💻 About Me
-
+**# 👨‍💻 About Me
+**
 - 🎓 BCA Student passionate about technology  
 - ☁️ Learning AWS & Cloud Computing Fundamentals  
 - 🚀 Building and Deploying Real-World Projects  
