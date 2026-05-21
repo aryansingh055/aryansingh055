@@ -49,3 +49,37 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansingh055&theme=radical" alt="GitHub Streak" />
 </p>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🌐 Portfolio Website
+
+✨ Explore my personal portfolio featuring  
+projects, certifications, resume, Tools and Skills.
+
+🔗 **Live Demo:**  
+<a href="https://aryansingh055.github.io/portfolio-website/" target="_blank">
+  Visit My Portfolio
+</a>
+
+</div>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  
+<a href="mailto:aryansinghas7703@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-singh-615a44369" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/aryansingh055" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
