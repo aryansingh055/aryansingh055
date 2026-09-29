@@ -47,7 +47,7 @@
 <p align="center">
 
 <a href="https://aryansingh055.github.io/portfolio-website/">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📌%20Visit%20My%20Portfolio-A855F7?style=for-the-badge" />
 </a>
 
 </p>
