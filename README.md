@@ -40,9 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansingh055&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🚀 Featured Project
 
-<div align="center">
 
 ## 🌐 Portfolio
 
