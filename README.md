@@ -54,12 +54,6 @@
 
 </p>
 
-🔗 **Live Demo:**  
-<a href="https://aryansingh055.github.io/portfolio-website/" target="_blank">
-  Visit My Portfolio
-</a>
-
-</div>
 
 ## 🌐 Connect With Me
 
